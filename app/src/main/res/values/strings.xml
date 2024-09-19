@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Processor</string>
+    <string name="capture_video">Capture Video</string>
+    <string name="upload_video">Upload Video</string>
+</resources>
